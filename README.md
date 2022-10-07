@@ -1,30 +1,26 @@
-### Hi I'm Devika 👋
+## Hi I'm Devika 👋
 
 A Junior Developer based in Dubai.
 
-#### Currently I'm
+
+### What I've been up to
+##### Currently
 - 🏢 Working at [Flourish](https://flourishworld.com/)
 - 💡 Learning PHP & Javascript
 
 
-#### Recently I
+##### Recently
 - 🌐 Worked on my very first [portfolio website](https://www.devika-sujith.dev/)
 - ✨ Contributed to [caniemail](https://www.caniemail.com/news/2022-09-29-september-updates/)
 - ✨ Contributed to [howtotarget](https://howtotarget.email/#2022-08-15-seznam.cz)
 
 
+### What I work with
+![](https://shields.io/badge/HTML5-flat?logo=html5&style=flat&color=151515)
+![](https://shields.io/badge/CSS3-flat?logo=css3&style=flat&color=151515)
+![](https://shields.io/badge/Javascript-flat?logo=javascript&style=flat&color=151515)
+![](https://shields.io/badge/PHP-flat?logo=php&style=flat&color=151515)
 
-<!--
-**DCoder18/DCoder18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DCoder18&theme=black-ice&hide_border=true&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
