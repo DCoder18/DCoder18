@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi I'm Devika 👋
+
+A Junior Developer based in Dubai.
+
+#### Currently I'm
+- 🏢 Working at [Flourish](https://flourishworld.com/)
+- 💡 Learning PHP & Javascript
+
+
+#### Recently I
+- 🌐 Worked on my very first [portfolio website](https://www.devika-sujith.dev/)
+- ✨ Contributed to [caniemail](https://www.caniemail.com/news/2022-09-29-september-updates/)
+- ✨ Contributed to [howtotarget](https://howtotarget.email/#2022-08-15-seznam.cz)
+
+
 
 <!--
 **DCoder18/DCoder18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
