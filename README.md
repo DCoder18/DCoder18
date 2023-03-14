@@ -21,10 +21,6 @@ A Junior Developer based in Dubai.
 ![](https://shields.io/badge/Javascript-flat?logo=javascript&style=flat&color=151515)
 ![](https://shields.io/badge/PHP-flat?logo=php&style=flat&color=151515)
 
-<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DCoder18&theme=black-ice&hide_border=true&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DCoder18&theme=dracula)](https://github.com/DCoder18/github-profile-trophy)
+### Some fun stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=DCoder18&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/DCoder18/github-profile-trophy)
