@@ -1,6 +1,6 @@
 ## Hi I'm Devika 👋
 
-A Junior Developer based in Dubai.
+A Developer based in Dubai.
 
 
 ### What I've been up to
